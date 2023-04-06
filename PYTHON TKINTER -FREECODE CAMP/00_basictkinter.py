@@ -6,7 +6,7 @@ from PIL import ImageTk, Image
 from tkinter import messagebox
 from tkinter import filedialog
 
-#Crear ventanas
+#Crear ventana
 root = Tk()
 root.title("Code")
 root.iconbitmap('a.ico')
